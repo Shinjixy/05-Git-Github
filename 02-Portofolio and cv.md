@@ -30,12 +30,12 @@
 
 **7. Tambahkan 3 perusahaan yang akan kamu lamar, dan setiap menuliskan 1 nama perusahaan kamu harus melakukan dokumentasi menggunakan commit**
 - nano cv.txt
-- 1. Marvel Studio
+- 1. Microsoft
 - git add cv.txt
-- git commit -m "Marvel Studio"
-- 2. Studio Ghibli
+- git commit -m "Microsoft"
+- 2. Tesla
 - git add cv.txt
-- git commit -m "Studio Ghibli"
+- git commit -m "Tesla"
 - 3. Google
 - git add cv.txt
 - git commit -m "Google"
