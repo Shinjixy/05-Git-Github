@@ -41,3 +41,4 @@
   •	gh repo create
   •	git push -u origin master
 Berikut Link Repository yang telah available di Github saya
+https://github.com/Shinjixy/05-Git-Github/blob/main/README.md
